@@ -32,6 +32,6 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   pressedItem: {
-    opacity: 0.4,
+    opacity: 0.5,
   },
 });
